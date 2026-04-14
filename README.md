@@ -9,7 +9,7 @@ A full-stack sales analytics dashboard built using **React, Tailwind CSS, Rechar
 ## 📁 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sales-forecast-dashboard.git
+git clone https://github.com/Genesis-Intelligence-suite/sales-forecast-version2.git
 cd sales-forecast-dashboard
 ```
 
